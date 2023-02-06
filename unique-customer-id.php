@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Unique Customer ID
-Plugin URI: https://techwithdee.com
+Plugin URI: https://github.com/ShoboySnr/unique-customer-id-wpmu
 Description: Display unique customer ID for logged in customers
 Version: 1.0.0
 Author: Damilare Shobowale
 Contributors: Damilare Shobowale
-Author URI: https://github.com/ShoboySnr
+Author URI: https://github.com/ShoboySnr/unique-customer-id-wpmu
 License: GPL2
 */
 
