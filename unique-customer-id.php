@@ -21,5 +21,5 @@ function display_customer_id($attr = '', $content = '') {
 }
 
 function generate_unique_user_id($user_id = 0) {
-    if(!empty($user_id)) return sprintf('UID%s', str_pad($user_id, 10, '0', STR_PAD_LEFT));
+    if(!empty($user_id)) return sprintf('CUID%s', str_pad($user_id, 10, '0', STR_PAD_LEFT));
 }
