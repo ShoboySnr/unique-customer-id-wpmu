@@ -11,7 +11,7 @@ License: GPL2
 */
 
 add_shortcode('display_customer_id', 'display_customer_id', 10, 2);
-function display_customer_id($attr, $content) {
+function display_customer_id($attr = '', $content = '') {
     // check if the user is logged in else return empty string
     if(!is_user_logged_in()) return '';
     
