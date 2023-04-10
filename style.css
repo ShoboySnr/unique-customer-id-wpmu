@@ -89,7 +89,7 @@ main.wp-block-query {
 
 form.wp-block-search {
     position: absolute;
-    bottom: 35px;
+    bottom: 25px;
     width: 100%;
     margin: auto !important;
     left: 50%;
@@ -112,6 +112,7 @@ header .wp-block-site-title a:before {
 
 header.wp-block-template-part .wp-block-group {
     padding-top: 5px !important;
+    position: relative;
 }
 
 header.wp-block-template-part nav.wp-block-navigation {
